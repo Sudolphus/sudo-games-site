@@ -1,0 +1,26 @@
+{
+  "name": "sudo-game-site",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "description": "solitaire card games",
+  "keywords": ["solitaire", "cards", "card", "games", "game"],
+  "license": "MIT",
+  "author": {
+    "name": "Micheal Hansen", 
+    "email": "micheal.hansen@gmail.com", 
+    "url": "http://www.github.com/Sudolphus"
+  },
+  "dependencies": {
+    "next": "^10.0.4",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sudolphus/sudo-games-site.git"
+  }
+}
